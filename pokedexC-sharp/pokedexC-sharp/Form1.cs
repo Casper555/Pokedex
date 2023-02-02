@@ -5,7 +5,14 @@ namespace pokedexC_sharp
         public Form1()
         {
             InitializeComponent();
+            int screenWidth = Screen.PrimaryScreen.Bounds.Width;
+            pictureBox1.Width= screenWidth;
+            pictureBox4.Width= screenWidth;
+            pictureBox7.Width= screenWidth;
+            pictureBox8.Width= screenWidth;
         }
+
+
 
         private void button1_Click(object sender, EventArgs e)
         {
