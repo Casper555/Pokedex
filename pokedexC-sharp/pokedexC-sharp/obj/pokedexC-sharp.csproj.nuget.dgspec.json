@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caspe\\OneDrive\\Documenten\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj": {}
+    "C:\\Users\\hp67\\Documents\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caspe\\OneDrive\\Documenten\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj": {
+    "C:\\Users\\hp67\\Documents\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caspe\\OneDrive\\Documenten\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj",
+        "projectUniqueName": "C:\\Users\\hp67\\Documents\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj",
         "projectName": "pokedexC-sharp",
-        "projectPath": "C:\\Users\\caspe\\OneDrive\\Documenten\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj",
-        "packagesPath": "C:\\Users\\caspe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caspe\\OneDrive\\Documenten\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\obj\\",
+        "projectPath": "C:\\Users\\hp67\\Documents\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\pokedexC-sharp.csproj",
+        "packagesPath": "C:\\Users\\hp67\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp67\\Documents\\GitHub\\Pokedex\\pokedexC-sharp\\pokedexC-sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\caspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp67\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

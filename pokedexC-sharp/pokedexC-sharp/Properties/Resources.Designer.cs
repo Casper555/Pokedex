@@ -59,5 +59,65 @@ namespace pokedexC_sharp.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _6e68a1936cffb36fc4e900b674a26d39681690cb_original {
+            get {
+                object obj = ResourceManager.GetObject("6e68a1936cffb36fc4e900b674a26d39681690cb_original", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _7_Squirtle {
+            get {
+                object obj = ResourceManager.GetObject("7-Squirtle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cropped_cropped_zwarte_balk {
+            get {
+                object obj = ResourceManager.GetObject("cropped-cropped-zwarte-balk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pikachu {
+            get {
+                object obj = ResourceManager.GetObject("pikachu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pikachu1 {
+            get {
+                object obj = ResourceManager.GetObject("pikachu1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Snorlax_Pokemon_step_by_step_drawing_tutorial_step_10 {
+            get {
+                object obj = ResourceManager.GetObject("Snorlax-Pokemon-step-by-step-drawing-tutorial-step-10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
